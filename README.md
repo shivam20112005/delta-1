@@ -1,2 +1,2 @@
 # delta-1
-this is a demo git-hub repositary and 1st repositary 
+this is a demo git-hub repositary and 1st repositary .
